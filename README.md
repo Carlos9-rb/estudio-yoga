@@ -13,7 +13,7 @@ Este es un proyecto de portafolio para un estudio de yoga y fitness. Demuestra m
 - JavaScript
 
 ## Ver Proyecto en Vivo
-[Haz clic aquí para ver la demo](¡ENLACE_QUE_OBTENDRÁS_DE_NETLIFY_AQUÍ!)
+[Haz clic aquí para ver la demo](estudioyoga.netlify.app)
 
 ## Instalación y Ejecución Local
 1. Clona este repositorio: `git clone https://m.youtube.com/watch?v=KrJwqsuhZ8U&pp=0gcJCYUJAYcqIYzv`
